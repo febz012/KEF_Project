@@ -6,6 +6,7 @@ This repository consists of a series of IoT projects with LoRA
       The data is then uploaded to a Cloud Storage and made availble on Internet.
      
 # 2) Weather Station 
-
+      A weather station constructed using Industrial grade sensors. 
+      The data is collected periodically and transmitted to a capture station using LoRa.
       
       
